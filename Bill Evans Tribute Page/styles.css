@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color:aliceblue
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: auto;
+    border-style:solid
+    
+}
+
+/*unvisited link */
+a:link{
+    color: blue;
+}
+
+/*visited link*/
+a:visited{
+    color: gray;
+}
